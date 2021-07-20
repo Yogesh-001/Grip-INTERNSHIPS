@@ -1,1 +1,1 @@
-# Grip_Datascience_task-1
+# Grip_INternships
